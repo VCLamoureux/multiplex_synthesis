@@ -75,8 +75,7 @@ HM_synthesis <- pheatmap(
   treeheight_row   = 10,
   treeheight_col   = 8,
   border_color     = "white",
-  na_col           = "#F2F2F2"
-  # ,main = "Your title")
+  na_col           = "#F2F2F2")
 
 HM_synthesis
 #ggsave("Pregnant_women_urine.pdf", plot = HM_synthesis, width = 10, height = 10, dpi = 900, bg = "transparent")
