@@ -1,0 +1,2 @@
+compound_name,lib_usi,Delta Mass,USI,Charge,Cosine,Matching Peaks,Unit Delta Mass,Dataset,Status,Query Filename,Query Scan,Index UnitPM,Index IdxInUnitPM
+Ibuprofen_l-proline,mzspec:GNPS:MULTIPLEX-SYNTHESIS-LIBRARY-ALL-PARTITION-6:accession:CCMSLIB00016273707,-0.01,mzspec:MSV000095003:peak/20240610_PCP_pos/P2_E7_625.mzML:scan:3328,1,0.72,3,0,MSV000095003,NoID,temp/queries/f6/f68d7c4a07d048d0849f47507e46dbb8/f68d7c4a07d048d0849f47507e46dbb8.mgf,1,304,1932166
