@@ -13,7 +13,7 @@ feature_table <- feature_table %>%
 colnames(feature_table)
 
 # import annotation table
-annotations <- fread("OneDrive-UniversityofCalifornia,SanDiegoHealth/Download_public_data/Pediatric_cohort_Shirley/99cebd129c6748e3b67a8834589b9faa-merged_results_with_gnps.tsv")
+annotations <- fread("OneDrive-UniversityofCalifornia,SanDiegoHealth/Download_public_data/Pediatric_cohort_Shirley/Pediatric_IBD_multiplex_libraries.tsv")
 annotations$`#Scan#` <- as.character(annotations$`#Scan#`)
 annotations <- annotations |> 
   dplyr::rename(Feature = `#Scan#`)
